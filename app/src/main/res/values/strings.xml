@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alfa Pass</string>
+    <string name="edit_pass">Редактировать</string>
+    <string name="pass_card_title">Пропуск в офис Альфа Банка</string>
+    <string name="turn_your_phone">Поднесите смартфон к считывающему устройству</string>
+
+    <string name="do_you_want_to_delete">Вы уверены, что хотите удалить этот пропуск?</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+    <string name="delete">Удалить</string>
+    <string name="enter_title">Введите название</string>
+    <string name="name_of_card">Название</string>
+    <string name="edit_title">Редактировать</string>
+</resources>
